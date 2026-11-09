@@ -2,14 +2,14 @@
   "item": {
     "id": "com.facephotos.quickapp",
     "restype": "quick_app",
-    "name": "随变壁纸库",
+    "name": "随变壁纸",
     "description": "随变表盘的前置壁纸库，配合更换壁纸功能使用。",
     "preview": [
       "media/111.png",
       "media/222.png"
     ],
     "icon": "media/壁纸库图标.png",
-    "cover": "media/无标题41_20261109223700.png",
+    "cover": "media/无标题41_20261109234831.png",
     "author": [
       {
         "name": "bandbbs_2052034",
