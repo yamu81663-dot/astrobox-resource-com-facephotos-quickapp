@@ -6,7 +6,8 @@
     "description": "随变表盘的前置壁纸库，配合更换壁纸功能使用。",
     "preview": [
       "media/111.png",
-      "media/222.png"
+      "media/222.png",
+      "media/相册设计稿 (获取图片时).png"
     ],
     "icon": "media/壁纸库图标.png",
     "cover": "media/无标题41_20261110003023.png",
@@ -23,11 +24,16 @@
       "version": "1.1.3",
       "file_name": "downloads/com.facephotos.quickapp.release.1.1.3.rpk",
       "versionCode": 12
+    },
+    "xmb9p": {
+      "version": "1.1.3",
+      "file_name": "downloads/com.facephotos.quickapp.release.1.1.3-xmb9p.rpk",
+      "versionCode": 12
     }
   },
   "ext": {
     "bundledResources": {
-      "recommended": [
+      "required": [
         {
           "type": "plugin",
           "id": "随变壁纸导入"
